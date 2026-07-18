@@ -132,10 +132,10 @@ li {
    BUTTON
    ========================================================== */
 
-.get-started-btn {
+.get-started-btn a {
     display: inline-block;
     background: #2980B9;
-    color: white !important;
+    color: white;
     padding: 15px 34px;
     border-radius: 5px;
     text-decoration: none;
@@ -144,7 +144,7 @@ li {
     transition: .2s;
 }
 
-.get-started-btn:hover {
+.get-started-btn a:hover {
     background: #1f6694;
     text-decoration: none;
 }
