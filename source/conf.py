@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'GetMailBirdDocs'
+project = 'MailBirdDocumentation'
 copyright = '2026, shahzad Malik'
 author = 'shahzad Malik'
 release = '1.0'
@@ -37,7 +37,6 @@ source_suffix = {
     ".md": "markdown",
 }
 
-html_title = "How to Log in to Mailbird on Desktop"
 
 
 # html_theme_options = {
